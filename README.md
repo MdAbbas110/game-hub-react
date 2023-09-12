@@ -10,17 +10,15 @@ The Game Hub is a web application built with React that enables users to search,
 - **Chakra UI and Tailwind CSS:** Chakra UI and Tailwind CSS were employed to create visually appealing and easily customizable components, including loading animations.
 - **Dark/Light Mode:** A dynamic dark/light mode switch is included, enhancing user customization.
 
+- <img width="949" alt="Screenshot 2023-08-21 120634" src="https://github.com/MdAbbas110/game-hub-react/assets/109078342/b2145524-68d0-4f70-9288-9727e37d43c4">
+
 ## Tech Stack
 
 - React
 - Vite (Build tool)
 - Chakra UI and Tailwind CSS (Styling)
 - React file structure for organization
-- <img width="949" alt="Screenshot 2023-08-21 120634" src="https://github.com/MdAbbas110/game-hub-react/assets/109078342/b2145524-68d0-4f70-9288-9727e37d43c4">
-
 - Hooks like useState and useEffect for efficient state management
-
-- 
 
 ## Installation
 
